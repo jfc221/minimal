@@ -16,7 +16,7 @@ I am a heavily motivated third year Mechanical Engineering student minoring in A
 ## [Resume](/another-page.html)
 
 
-## [LinkedIn](/another-page.html)
+## [LinkedIn](www.linkedin.com/in/john-cummings1)
 
 
 #### Header 4
