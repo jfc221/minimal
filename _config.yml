@@ -1,6 +1,6 @@
 title: John F. Cummings
 logo: /assets/logo.png
 description: Mechanical Engineering Student at Lehigh University
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
