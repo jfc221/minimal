@@ -1,6 +1,3 @@
----
-layout: default
----
 
 [Link to another page](./another-page.html).
 
@@ -13,28 +10,12 @@ There should be whitespace between paragraphs. We recommend including a README, 
 I am a heavily motivated third year Mechanical Engineering student minoring in Aerospace Engineering and Business with a variety of out-of-classroom experience from being involved with research, internships, and a Formula One style racing team. These opportunities have provided me with a sense of intuition necessary to solve complex engineering problems. I would like to expand upon the skills I have gained and apply them to a summer 2020 internship.
 
 
-## Header 2
+## [Portfolio](/another-page.html)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+## [Resume](/another-page.html)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 #### Header 4
 
