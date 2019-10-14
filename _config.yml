@@ -1,7 +1,6 @@
 title: John F. Cummings
 logo: /assets/logo.png
-description: Mechanical Engineering Student at Lehigh University
-description: email:johncummings115@gmail.com
+description: Mechanical Engineering Student at Lehigh University |johncummings115@gmail.com
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
