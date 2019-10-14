@@ -7,7 +7,7 @@ I am a heavily motivated third year Mechanical Engineering student minoring in A
 ## [Portfolio](./PTEST.pdf)
 
 
-## [Resume](./another-page.html)
+## [Resume](./resume.pdf)
 
 
 ## [LinkedIn](http://linkedin.com/in/john-cummings1)
