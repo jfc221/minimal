@@ -6,7 +6,7 @@ Check out my portfolio to learn more about some of the projects I have worked on
 
 ***
 
-# Project Expierence
+# Project Experience
 
 ### [Portfolio](./PTEST.pdf)
 
