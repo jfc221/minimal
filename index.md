@@ -23,3 +23,4 @@ Check out my portfolio to learn more about some of the projects I have worked on
 #### Email: [johncummings115@gmail.com](mailto:johncummings115@gmail.com)
 
 #### Phone: [(703) 408-9003](tel:703-408-9003)
+
