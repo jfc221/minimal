@@ -14,7 +14,7 @@ Check out my portfolio to learn more about some of the projects I have worked on
 ### [Resume](./resume.pdf)
 
 
-#### [LinkedIn](http://linkedin.com/in/john-cummings1)
+### [LinkedIn](http://linkedin.com/in/john-cummings1)
 
 ***
 
