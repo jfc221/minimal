@@ -26,4 +26,4 @@ Check out my portfolio to learn more about some of the projects I have worked on
 
 #### Home Address: 9 Country Side Drive, Rockaway, NJ 07866
 
-#### School Address: 4 FARRINGTON SQ BOX 3264, BETHLEHEM, PA 18015
+#### School Address: 4 Farrington Sq Box 3264, Bethlehem, PA 18015
