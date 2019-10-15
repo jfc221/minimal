@@ -25,3 +25,5 @@ Check out my portfolio to learn more about some of the projects I have worked on
 #### Phone: [(703) 408-9003](tel:703-408-9003)
 
 #### Home Address: 9 Country Side Drive, Rockaway, NJ 07866
+
+#### School Address: 4 FARRINGTON SQ BOX 3264, BETHLEHEM, PA 18015
