@@ -8,7 +8,7 @@ Check out my portfolio to learn more about some of the projects I have worked on
 
 # Project Experience
 
-### [Portfolio](./portfolio.pdf)
+### [Portfolio](.portfolio.pdf)
 
 
 ### [Resume](./resume.pdf)
