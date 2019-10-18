@@ -1,6 +1,6 @@
 # About Me
 
-I am a heavily motivated third year Mechanical Engineering student minoring in Aerospace Engineering and Business with a variety of out-of-classroom experience from being involved in research, internships, and a Formula One style racing team. These opportunities have provided me with a sense of intuition necessary to solve complex engineering problems with ease. I would like to expand upon the skills I have gained and apply them to a Summer 2020 internship. 
+I am an extremely motivated third year Mechanical Engineering student minoring in Aerospace Engineering and Business with a variety of out-of-classroom experience from being involved in research, internships, and a Formula One style racing team. These opportunities have provided me with a sense of intuition necessary to solve complex engineering problems which I hope to apply to a Summer 2020 internship. 
 
 Check out my portfolio to learn more about some of the projects I have worked on!
 
