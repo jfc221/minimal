@@ -27,10 +27,9 @@ I hope to apply the skills I have learned from my past experience to innovate ne
 
 # Letters of Recomendation
 
-#### From:
-#### [Metal 3D Printing Research Group Advisor and Professor](./hadenlor.pdf)
+### [Metal 3D Printing Research Group Advisor and Professor](./hadenlor.pdf)
 
-#### [Defense Comissary Agency Manager](./decalor.pdf)
+### [Defense Comissary Agency Manager](./decalor.pdf)
 
 ***
 
