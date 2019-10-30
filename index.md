@@ -29,7 +29,7 @@ Experience on the Formula SAE team and past internships have taught me how new e
 
 #### [Metal 3D Printing Research Group Advisor and Professor](./hadenlor.pdf)
 
-#### [Defense Comissary Agency Manager](./decalor.pdf)
+#### [Defense Commissary Agency Manager](./decalor.pdf)
 
 ***
 
