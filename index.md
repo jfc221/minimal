@@ -8,7 +8,7 @@ Being a mechanical engineering intern at SAVIT Corporation advanced my technical
 
 Considering its ability to make geometrically complex but perfectly optimized designs a reality, additive manufacturing is particularly underutilized in industry. Using a Gas Metal Arc Welding (GMAW) printer, my research group and I are developing models for strength of metal 3D printed parts using thermal data, audio information, and LIDAR scans. Through optimizing the microstructure of metal additive manufactured parts, I hope to increase the knowledge associated with metal 3D printing so it can be utilized as a solution for a completely new set of problems.
 
-Experience on the Formula SAE team and past internships have taught me how new engineering methods have to be innovated for each new set of engineering environments and the holistic approach that every engineer should take. I hope to apply the skills I have learned from my past experiences to innovate new engineering methods for whatever challenges the future brings. Feel free to email me or check out my portfolio for more information on the experience that I have.
+Experience performing research, being a design lead on the Formula SAE team and past internships have taught me how new engineering methods have to be innovated for each new set of engineering environments and the holistic approach that every engineer should take. I hope to apply the skills I have learned from my past experiences to innovate new engineering methods for whatever challenges the future brings. Feel free to contact me or check out my portfolio for more information on the projects I have worked on.
 
 
 ***
