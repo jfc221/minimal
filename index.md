@@ -40,4 +40,4 @@ Experience performing research, being a design lead in Formula SAE and past inte
 
 #### Home Address: 9 Country Side Drive, Rockaway, NJ 07866
 
-#### School Address: 4 Farrington Sq Box 3264, Bethlehem, PA 18015
+#### School Address: 4 Farrington Square Box 3264, Bethlehem, PA 18015
