@@ -11,7 +11,6 @@ I am a third year Mechanical Engineering student minoring in Aerospace Engineeri
   <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png" alt="HTML tutorial">
 </a>
 
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -46,7 +45,6 @@ body {
 </head>
 <body>
 
-<h2>Responsive Image with Transparent Text</h2>
 
 <div class="container">
   <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png" alt="Notebook" style="width:100%;">
