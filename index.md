@@ -11,6 +11,7 @@ I am a third year Mechanical Engineering student minoring in Aerospace Engineeri
   <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png" alt="HTML tutorial">
 </a>
 
+<iframe src="./portfolio.pdf"></iframe>
 
 
 ### [Resume](./resume.pdf)
@@ -18,7 +19,6 @@ I am a third year Mechanical Engineering student minoring in Aerospace Engineeri
 
 ### [LinkedIn](http://linkedin.com/in/john-cummings1)
 
- <a href="http://en.wikipedia.org/">Wikipedia</a><div class="box"><iframe src="http://en.wikipedia.org/" width = "500px" height = "500px"></iframe></div>
  
 ***
 
