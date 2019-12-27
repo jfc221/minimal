@@ -11,7 +11,7 @@ I am a third year Mechanical Engineering student minoring in Aerospace Engineeri
   <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png" alt="HTML tutorial">
 </a>
 
-<iframe src="./portfolio.pdf"></iframe>
+<iframe src="./portfolio.pdf" style="border:none;"></iframe>
 
 
 ### [Resume](./resume.pdf)
