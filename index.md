@@ -6,7 +6,9 @@ I am a third year Mechanical Engineering student minoring in Aerospace Engineeri
 # Project Experience
 
 ### [Portfolio](./portfolio.pdf)
-![EngineeringPortfolioThumb](https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png)
+![EngineeringPortfolioThumb](https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png)(./portfolio.pdf)
+
+
 
 ### [Resume](./resume.pdf)
 
