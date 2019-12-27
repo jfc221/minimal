@@ -11,6 +11,7 @@ I am a third year Mechanical Engineering student minoring in Aerospace Engineeri
   <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png" alt="HTML tutorial">
 </a>
 
+</div>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
  .container {
@@ -59,7 +60,6 @@ I am a third year Mechanical Engineering student minoring in Aerospace Engineeri
   <div class="middle">
     <div class="text">Engineering Portfolio</div>
 </div>
-  </div>
   </div>
 
   
