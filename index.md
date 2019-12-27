@@ -53,15 +53,11 @@ I am a third year Mechanical Engineering student minoring in Aerospace Engineeri
    padding: 16px 32px;
  }
  </style>
- </head>
  <body>
-
- <h2>Opacity with Box</h2>
- <p>Hover over the image to see the effect.</p>
 <div class="container">
   <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png" alt="Avatar" class="image" style="width:100%">
   <div class="middle">
-    <div class="text">John Doe</div>
+    <div class="text">Engineering Portfolio</div>
   </div>
 </div>
   
