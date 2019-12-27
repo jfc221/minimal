@@ -11,56 +11,54 @@ I am a third year Mechanical Engineering student minoring in Aerospace Engineeri
   <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png" alt="HTML tutorial">
 </a>
 
-</div>
+<!DOCTYPE html>
+<html>
+<head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
- .container {
-   position: relative;
-   width: 50%;
- }
+* {
+  box-sizing: border-box;
+}
 
- .image {
-   opacity: 1;
-   display: block;
-   width: 100%;
-   height: auto;
-   transition: .5s ease;
-   backface-visibility: hidden;
- }
+body {
+  font-family: Arial;
+  font-size: 17px;
+}
 
- .middle {
-   transition: .5s ease;
-   opacity: 0;
-   position: absolute;
-   top: 50%;
-   left: 50%;
-   transform: translate(-50%, -50%);
-   -ms-transform: translate(-50%, -50%);
-   text-align: center;
- }
+.container {
+  position: relative;
+  max-width: 800px;
+  margin: 0 auto;
+}
 
- .container:hover .image {
-   opacity: 0.3;
- }
+.container img {vertical-align: middle;}
 
- .container:hover .middle {
-   opacity: 1;
- }
+.container .content {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+}
+</style>
+</head>
+<body>
 
- .text {
-   background-color: #4CAF50;
-   color: white;
-   font-size: 16px;
-   padding: 16px 32px;
- }
- </style>
- <body>
+<h2>Responsive Image with Transparent Text</h2>
+
 <div class="container">
-  <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png" alt="Avatar" class="image" style="width:100%">
-  <div class="middle">
-    <div class="text">Engineering Portfolio</div>
-</div>
+  <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png" alt="Notebook" style="width:100%;">
+  <div class="content">
+    <h1>Heading</h1>
+    <p>Lorem ipsum dolor sit amet, an his etiam torquatos. Tollit soleat phaedrum te duo, eum cu recteque expetendis neglegentur. Cu mentitum maiestatis persequeris pro, pri ponderum tractatos ei.</p>
   </div>
+</div>
+
+</body>
+</html>
+
 
   
   
