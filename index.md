@@ -59,6 +59,8 @@ I am a third year Mechanical Engineering student minoring in Aerospace Engineeri
   <div class="middle">
     <div class="text">Engineering Portfolio</div>
 </div>
+  </div>
+  </div>
 
   
   
