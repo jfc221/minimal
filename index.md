@@ -20,8 +20,7 @@ I am a third year Mechanical Engineering student minoring in Aerospace Engineeri
 }
 
 body {
-  font-family: Arial;
-  font-size: 17px;
+
 }
 
 .container {
