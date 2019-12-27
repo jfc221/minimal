@@ -1,4 +1,4 @@
-# About Me
+# About Me.. Website currently under construction 12-26-2019
 
 I am a third year Mechanical Engineering student minoring in Aerospace Engineering and Business with a passion for innovation. I have had the incredible experiences of being involved with multiple engineering projects which has given me the ability to perform holistically as an engineer. Metal additive manufacturing research, a Formula One style engineering team, internships, and volunteer engineering work have given me the opportunity to build my skill set and apply knowledge learned in the classroom to real world problems. Experience working in these organizations have given me the sense of intuition and holistic mindset required to solve new complex engineering problems.
 
