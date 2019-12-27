@@ -21,7 +21,7 @@ I am a third year Mechanical Engineering student minoring in Aerospace Engineeri
 
 body {
   font-family: Arial;
-  font-size: 17px;
+  font-size: 26px;
 }
 
 .container {
@@ -36,7 +36,7 @@ body {
   position: absolute;
   bottom: 0;
   background: rgb(0, 0, 0); /* Fallback color */
-  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  background: rgba(0, 0, 0, 0.8); /* Black background with 0.5 opacity */
   color: #f1f1f1;
   width: 100%;
   padding: 20px;
