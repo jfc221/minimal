@@ -5,3 +5,20 @@ show_downloads: false
 google_analytics: UA-150490434-1 
 google_analytics: UA-150490434-2 
 theme: jekyll-theme-minimal
+
+social_icons:
+  - name: linkedin
+    link: https://www.linkedin.com/christianezeani
+    icon: fab fa-linkedin
+
+  - name: github
+    link: https://github.com/christianezeani
+    icon: fab fa-github-square
+
+  - name: facebook
+    link: https://www.facebook.com/christian.ezeani.cyb
+    icon: fab fa-facebook-square
+
+  - name: twitter
+    link: https://www.twitter.com/christianezeani
+    icon: fab fa-twitter
