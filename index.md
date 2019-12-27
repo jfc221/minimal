@@ -58,8 +58,8 @@ I am a third year Mechanical Engineering student minoring in Aerospace Engineeri
   <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png" alt="Avatar" class="image" style="width:100%">
   <div class="middle">
     <div class="text">Engineering Portfolio</div>
-  </div>
-</div>
+
+
   
   
 
