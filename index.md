@@ -8,7 +8,7 @@ I am a third year Mechanical Engineering student minoring in Aerospace Engineeri
 ### [Portfolio](./portfolio.pdf)
 ![EngineeringPortfolioThumb](https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png)
 
-<a href="default.asp">
+<a href="./portfolio.pdf">
   <img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;border:0">
 </a>
 
