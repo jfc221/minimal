@@ -16,7 +16,8 @@ I am a third year Mechanical Engineering student minoring in Aerospace Engineeri
 
 
 ### [LinkedIn](http://linkedin.com/in/john-cummings1)
-
+ <a href="http://en.wikipedia.org/">Wikipedia</a><div class="box"><iframe src="http://en.wikipedia.org/" width = "500px" height = "500px"></iframe></div> remains open on mouseover.
+ 
 ***
 
 # Letters of Recomendation
