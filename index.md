@@ -60,7 +60,7 @@ I am a third year Mechanical Engineering student minoring in Aerospace Engineeri
 <p>Hover over the image to see the effect.</p>
 
 <div class="container">
-  <img src="img_avatar.png" alt="Avatar" class="image" style="width:100%">
+  <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png" alt="Avatar" class="image" style="width:100%">
   <div class="middle">
     <div class="text">John Doe</div>
   </div>
