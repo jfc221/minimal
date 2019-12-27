@@ -6,7 +6,8 @@ I am a third year Mechanical Engineering student minoring in Aerospace Engineeri
 # Project Experience
 
 ### [Portfolio](./portfolio.pdf)
-![EngineeringPortfolioThumb](https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png)(./portfolio.pdf)
+![EngineeringPortfolioThumb](https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png)
+<a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a>
 
 
 
