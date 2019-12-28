@@ -47,7 +47,9 @@ body {
 
 
 <div class="container">
-  <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png" alt="Notebook" style="width:100%;">
+    <a href="./portfolio.pdf">
+      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png">
+     </a>
   <div class="content">
     <h1>Engineering Portfolio</h1>
   </div>
