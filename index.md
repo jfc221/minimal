@@ -59,7 +59,6 @@ img {vertical-align: middle;}
   opacity: 1;
 }
 
-
 .text {
   background-color: #4CAF50;
   color: white;
@@ -76,7 +75,6 @@ img {vertical-align: middle;}
   top: 0;
 }
 
-
 .active {
   background-color: #717171;
 }
@@ -84,9 +82,9 @@ img {vertical-align: middle;}
 /* Fading animation */
 .fade {
   -webkit-animation-name: fade;
-  -webkit-animation-duration: 1.5s;
+  -webkit-animation-duration: 2.5s;
   animation-name: fade;
-  animation-duration: 1.5s;
+  animation-duration: 2.5s;
 }
 
 @-webkit-keyframes fade {
@@ -117,90 +115,13 @@ img {vertical-align: middle;}
       <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide1.png">
   </a>
     <div class="middle">
-       <div class="text">John Doe</div>
+       <div class="text">Engineering Portfolio</div>
       </div>
   </div>
 </div>
 
 
 
-
-<div class="mySlides fade">
-  <div class="numbertext">2 / 12</div>
- <a href="./portfolio.pdf">
-      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide2.png">
-     </a>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">3 / 12</div>
- <a href="./portfolio.pdf">
-      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide3.png">
-     </a>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">4 / 12</div>
- <a href="./portfolio.pdf">
-      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide4.png">
-     </a>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">5 / 12</div>
- <a href="./portfolio.pdf">
-      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide5.png">
-     </a>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">6 / 12</div>
- <a href="./portfolio.pdf">
-      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide6.png">
-     </a>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">7 / 12</div>
- <a href="./portfolio.pdf">
-      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide7.png">
-     </a>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">8 / 12</div>
- <a href="./portfolio.pdf">
-      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide8.png">
-     </a>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">9 / 12</div>
- <a href="./portfolio.pdf">
-      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide9.png">
-     </a>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">10 / 12</div>
- <a href="./portfolio.pdf">
-      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide10.png">
-     </a>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">11 / 12</div>
- <a href="./portfolio.pdf">
-      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide11.png">
-     </a>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">12 / 12</div>
- <a href="./portfolio.pdf">
-      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide12.png">
-     </a>
-</div>
 
 </div>
 <br>
