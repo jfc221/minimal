@@ -45,7 +45,7 @@ body {
       <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png">
      </a>
   <div class="content">
-    <h1>Engineering Portfolio</h1>
+    <h2>Engineering Portfolio</h2>
   </div>
 </div>
 
