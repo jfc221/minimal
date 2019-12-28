@@ -6,11 +6,6 @@ I am a third year Mechanical Engineering student minoring in Aerospace Engineeri
 
 # Project Experience
 
-### [Portfolio](./portfolio.pdf)
-<a href="./portfolio.pdf">
-  <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png">
-</a>
-
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -34,8 +29,7 @@ body {
 .container .content {
   position: absolute;
   bottom: 0;
-  background: rgb(0, 0, 0); /* Fallback color */
-  background: rgba(0, 0, 0, 0.8); /* Black background with 0.5 opacity */
+  background: rgba(255, 255, 255, 0.8); /* Black background with 0.5 opacity */
   color: #f1f1f1;
   width: 100%;
   height: 20%;
