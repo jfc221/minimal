@@ -8,7 +8,7 @@ I am a third year Mechanical Engineering student minoring in Aerospace Engineeri
 
 ### [Portfolio](./portfolio.pdf)
 <a href="./portfolio.pdf">
-  <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png" alt="HTML tutorial">
+  <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png">
 </a>
 
 <html>
@@ -38,6 +38,7 @@ body {
   background: rgba(0, 0, 0, 0.8); /* Black background with 0.5 opacity */
   color: #f1f1f1;
   width: 100%;
+  height: 50%;
   padding: 20px;
 }
 </style>
@@ -49,7 +50,7 @@ body {
   <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png" alt="Notebook" style="width:100%;">
   <div class="content">
     <h1>Heading</h1>
-    <p>Engineering Portfolio</p>
+    <h1>Engineering Portfolio</h1>
   </div>
 </div>
 
