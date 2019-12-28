@@ -60,7 +60,7 @@ img {vertical-align: middle;}
 }
 
 .text {
-  background-color: #4CAF50;
+  background-color: #267CB9;
   color: white;
   font-size: 16px;
   padding: 16px 32px;
