@@ -6,56 +6,6 @@ I am a third year Mechanical Engineering student minoring in Aerospace Engineeri
 
 # Project Experience
 
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
-
-body {
-
-}
-
-.container {
-  position: relative;
-  max-width: 400px;
-  margin: 0 auto;
-}
-
-.container img {vertical-align: middle;}
-.container img {horizontal-align: left;}
-
-.container .content {
-  position: absolute;
-  bottom: 0;
-  background: rgba(255, 255, 255, 0.8); /* Black background with 0.5 opacity */
-  color: #f1f1f1;
-  width: 100%;
-  height: 20%;
-  padding: 20px;
-}
-</style>
-</head>
-<body>
-
-
-<div class="container">
-    <a href="./portfolio.pdf">
-      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png">
-     </a>
-  <div class="content">
-    <h2>Engineering Portfolio</h2>
-  </div>
-</div>
-
-</body>
-</html>
-
-
-
-
 
 
 
@@ -95,16 +45,6 @@ img {vertical-align: middle;}
   top: 0;
 }
 
-/* The dots/bullets/indicators */
-.dot {
-  height: 15px;
-  width: 15px;
-  margin: 0 2px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  transition: background-color 0.6s ease;
-}
 
 .active {
   background-color: #717171;
@@ -143,7 +83,6 @@ img {vertical-align: middle;}
   <a href="./portfolio.pdf">
       <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide1.png">
   </a>
-  <div class="text">Caption Text</div>
 </div>
 
 <div class="mySlides fade">
@@ -151,7 +90,6 @@ img {vertical-align: middle;}
  <a href="./portfolio.pdf">
       <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide2.png">
      </a>
-  <div class="text">Caption Two</div>
 </div>
 
 <div class="mySlides fade">
@@ -159,7 +97,6 @@ img {vertical-align: middle;}
  <a href="./portfolio.pdf">
       <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide3.png">
      </a>
-  <div class="text">Caption Three</div>
 </div>
 
 <div class="mySlides fade">
@@ -167,7 +104,6 @@ img {vertical-align: middle;}
  <a href="./portfolio.pdf">
       <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide4.png">
      </a>
-  <div class="text">Caption Four</div>
 </div>
 
 <div class="mySlides fade">
@@ -175,7 +111,6 @@ img {vertical-align: middle;}
  <a href="./portfolio.pdf">
       <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide5.png">
      </a>
-  <div class="text">Caption Five</div>
 </div>
 
 <div class="mySlides fade">
@@ -183,7 +118,6 @@ img {vertical-align: middle;}
  <a href="./portfolio.pdf">
       <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide6.png">
      </a>
-  <div class="text">Caption Three</div>
 </div>
 
 <div class="mySlides fade">
@@ -191,7 +125,6 @@ img {vertical-align: middle;}
  <a href="./portfolio.pdf">
       <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide7.png">
      </a>
-  <div class="text">Caption Three</div>
 </div>
 
 <div class="mySlides fade">
@@ -199,7 +132,6 @@ img {vertical-align: middle;}
  <a href="./portfolio.pdf">
       <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide8.png">
      </a>
-  <div class="text">Caption Three</div>
 </div>
 
 <div class="mySlides fade">
@@ -207,7 +139,6 @@ img {vertical-align: middle;}
  <a href="./portfolio.pdf">
       <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide9.png">
      </a>
-  <div class="text">Caption Three</div>
 </div>
 
 <div class="mySlides fade">
@@ -215,7 +146,6 @@ img {vertical-align: middle;}
  <a href="./portfolio.pdf">
       <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide10.png">
      </a>
-  <div class="text">Caption Three</div>
 </div>
 
 <div class="mySlides fade">
@@ -223,7 +153,6 @@ img {vertical-align: middle;}
  <a href="./portfolio.pdf">
       <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide11.png">
      </a>
-  <div class="text">Caption Eleven</div>
 </div>
 
 <div class="mySlides fade">
@@ -231,7 +160,6 @@ img {vertical-align: middle;}
  <a href="./portfolio.pdf">
       <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide12.png">
      </a>
-  <div class="text">Caption Twelve</div>
 </div>
 
 </div>
