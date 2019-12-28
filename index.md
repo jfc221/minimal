@@ -38,7 +38,7 @@ body {
   background: rgba(0, 0, 0, 0.8); /* Black background with 0.5 opacity */
   color: #f1f1f1;
   width: 100%;
-  height: 50%;
+  height: 20%;
   padding: 20px;
 }
 </style>
@@ -49,7 +49,6 @@ body {
 <div class="container">
   <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png" alt="Notebook" style="width:100%;">
   <div class="content">
-    <h1>Heading</h1>
     <h1>Engineering Portfolio</h1>
   </div>
 </div>
