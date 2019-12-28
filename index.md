@@ -141,7 +141,7 @@ img {vertical-align: middle;}
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
   <a href="./portfolio.pdf">
-      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png">
+      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide1.png">
   </a>
   <div class="text">Caption Text</div>
 </div>
@@ -149,7 +149,7 @@ img {vertical-align: middle;}
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
  <a href="./portfolio.pdf">
-      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png">
+      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide2.png">
      </a>
   <div class="text">Caption Two</div>
 </div>
@@ -157,78 +157,96 @@ img {vertical-align: middle;}
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
  <a href="./portfolio.pdf">
-      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png">
+      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide3.png">
      </a>
   <div class="text">Caption Three</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
+  <div class="numbertext">4 / 3</div>
  <a href="./portfolio.pdf">
-      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png">
+      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide4.png">
+     </a>
+  <div class="text">Caption Four</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">5 / 3</div>
+ <a href="./portfolio.pdf">
+      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide5.png">
+     </a>
+  <div class="text">Caption Five</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">6 / 3</div>
+ <a href="./portfolio.pdf">
+      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide6.png">
      </a>
   <div class="text">Caption Three</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
+  <div class="numbertext">7 / 3</div>
  <a href="./portfolio.pdf">
-      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png">
+      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide7.png">
      </a>
   <div class="text">Caption Three</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
+  <div class="numbertext">8 / 3</div>
  <a href="./portfolio.pdf">
-      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png">
+      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide8.png">
      </a>
   <div class="text">Caption Three</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
+  <div class="numbertext">9 / 3</div>
  <a href="./portfolio.pdf">
-      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png">
+      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide9.png">
      </a>
   <div class="text">Caption Three</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
+  <div class="numbertext">10 / 3</div>
  <a href="./portfolio.pdf">
-      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png">
+      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide10.png">
      </a>
   <div class="text">Caption Three</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
+  <div class="numbertext">11 / 3</div>
  <a href="./portfolio.pdf">
-      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png">
+      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide11.png">
      </a>
-  <div class="text">Caption Three</div>
+  <div class="text">Caption Eleven</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
+  <div class="numbertext">12 / 3</div>
  <a href="./portfolio.pdf">
-      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png">
+      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide12.png">
      </a>
-  <div class="text">Caption Three</div>
+  <div class="text">Caption Twelve</div>
 </div>
 
-<div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
- <a href="./portfolio.pdf">
-      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/EngineeringPortfolioThumb.png">
-     </a>
-  <div class="text">Caption Three</div>
-</div>
 </div>
 <br>
 
 <div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span>
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
@@ -252,7 +270,7 @@ function showSlides() {
   }
   slides[slideIndex-1].style.display = "block";  
   dots[slideIndex-1].className += " active";
-  setTimeout(showSlides, 10000); // Change image every 2 seconds
+  setTimeout(showSlides, 4000); // Change image every 2 seconds
 }
 </script>
 
