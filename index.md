@@ -270,6 +270,13 @@ img {vertical-align: middle;}
 </div>
 <br>
 
+<div class="container">
+  <img src="img_avatar.png" alt="Avatar" class="image" style="width:100%">
+  <div class="middle">
+    <div class="text">John Doe</div>
+  </div>
+</div>
+
 <div style="text-align:center">
   <span class="dot"></span> 
   <span class="dot"></span> 
