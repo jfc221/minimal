@@ -20,7 +20,7 @@ img {vertical-align: middle;}
 
 .container {
   position: relative;
-  width: 50%;
+  width: 100%;
 }
 
 .image {
