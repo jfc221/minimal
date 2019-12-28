@@ -24,7 +24,8 @@ body {
   margin: 0 auto;
 }
 
-.container img {vertical-align: left;}
+.container img {vertical-align: middle;}
+.container img {horizontal-align: left;}
 
 .container .content {
   position: absolute;
