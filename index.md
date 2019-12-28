@@ -270,12 +270,19 @@ img {vertical-align: middle;}
 </div>
 <br>
 
+
+
 <div class="container">
-  <img src="img_avatar.png" alt="Avatar" class="image" style="width:100%">
+  <a href="./resume.pdf">
+  <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/ResumeThumb.png" class="image" style="width:100%">
+    </a>
   <div class="middle">
-    <div class="text">John Doe</div>
+    <div class="text">View Resume</div>
   </div>
 </div>
+
+
+
 
 <div style="text-align:center">
   <span class="dot"></span> 
