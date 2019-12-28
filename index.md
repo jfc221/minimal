@@ -18,6 +18,32 @@ body {font-family: Verdana, sans-serif;}
 .mySlides {display: none;}
 img {vertical-align: middle;}
 
+.container {
+  position: relative;
+  width: 50%;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
@@ -25,15 +51,20 @@ img {vertical-align: middle;}
   margin: auto;
 }
 
-/* Caption text */
+.container:hover .image {
+  opacity: 0.3;
+}
+
+.container:hover .middle {
+  opacity: 1;
+}
+
+
 .text {
-  color: #f2f2f2;
-  font-size: 15px;
-  padding: 8px 12px;
-  position: absolute;
-  bottom: 8px;
-  width: 100%;
-  text-align: center;
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
 }
 
 /* Number text (1/3 etc) */
@@ -78,85 +109,94 @@ img {vertical-align: middle;}
 
 <div class="slideshow-container">
 
+
+
 <div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
+  <div class="container">
   <a href="./portfolio.pdf">
       <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide1.png">
   </a>
+    <div class="middle">
+       <div class="text">John Doe</div>
+      </div>
+  </div>
 </div>
 
+
+
+
 <div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
+  <div class="numbertext">2 / 12</div>
  <a href="./portfolio.pdf">
       <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide2.png">
      </a>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
+  <div class="numbertext">3 / 12</div>
  <a href="./portfolio.pdf">
       <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide3.png">
      </a>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">4 / 3</div>
+  <div class="numbertext">4 / 12</div>
  <a href="./portfolio.pdf">
       <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide4.png">
      </a>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">5 / 3</div>
+  <div class="numbertext">5 / 12</div>
  <a href="./portfolio.pdf">
       <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide5.png">
      </a>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">6 / 3</div>
+  <div class="numbertext">6 / 12</div>
  <a href="./portfolio.pdf">
       <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide6.png">
      </a>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">7 / 3</div>
+  <div class="numbertext">7 / 12</div>
  <a href="./portfolio.pdf">
       <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide7.png">
      </a>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">8 / 3</div>
+  <div class="numbertext">8 / 12</div>
  <a href="./portfolio.pdf">
       <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide8.png">
      </a>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">9 / 3</div>
+  <div class="numbertext">9 / 12</div>
  <a href="./portfolio.pdf">
       <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide9.png">
      </a>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">10 / 3</div>
+  <div class="numbertext">10 / 12</div>
  <a href="./portfolio.pdf">
       <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide10.png">
      </a>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">11 / 3</div>
+  <div class="numbertext">11 / 12</div>
  <a href="./portfolio.pdf">
       <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide11.png">
      </a>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">12 / 3</div>
+  <div class="numbertext">12 / 12</div>
  <a href="./portfolio.pdf">
       <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide12.png">
      </a>
