@@ -79,6 +79,18 @@ img {vertical-align: middle;}
   background-color: #717171;
 }
 
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: right;
+  width: 50%;
+  padding: 5px;
+}
+
+
+
 /* Fading animation */
 .fade {
   -webkit-animation-name: fade;
@@ -108,21 +120,23 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 
-
-<div class="mySlides fade">
-  <div class="container">
-  <a href="./portfolio.pdf">
-      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide1.png" class="image">
-  </a>
-    <div class="middle">
+<div class="row">
+  <div class="column">
+  <div class="mySlides fade">
+      <div class="container">
       <a href="./portfolio.pdf">
-       <div class="text">Engineering Portfolio</div>
-        </a>
+          <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide1.png" class="image">
+      </a>
+        <div class="middle">
+          <a href="./portfolio.pdf">
+           <div class="text">Engineering Portfolio</div>
+            </a>
+          </div>
       </div>
-  </div>
+    </div>
 </div>
-
-
+  
+  <div class="column">
 <div class="mySlides fade">
   <div class="container">
   <a href="./portfolio.pdf">
@@ -135,7 +149,9 @@ img {vertical-align: middle;}
       </div>
   </div>
 </div>
-
+</div>
+  </div>
+  
 <div class="mySlides fade">
   <div class="container">
   <a href="./portfolio.pdf">
