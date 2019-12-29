@@ -84,11 +84,17 @@ img {vertical-align: middle;}
 }
 
 .column {
-  float: right;
+  float: left;
   width: 50%;
   padding: 5px;
 }
 
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 
 
 /* Fading animation */
