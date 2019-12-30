@@ -96,11 +96,11 @@ img {vertical-align: middle;}
 }
 </style>
 </head>
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <body>
   
 <div class="row">
   <div class="column">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <div class="w3-content w3-section" style="max-width:500px" class="image">
           <div class="container">
           <a href="./portfolio.pdf">
