@@ -138,6 +138,7 @@ img {vertical-align: middle;}
               <a href="./portfolio.pdf">
                <div class="text">View Portfolio</div>
                 </a>
+            </div>  
         </div>
         <div class="container">
         <a href="./portfolio.pdf">
