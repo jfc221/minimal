@@ -7,12 +7,12 @@
   box-sizing: border-box;
 }
 
-.column {
+.column1 {
   float: right;
   width: 50%;
   padding: 5px;
 }
-.column1 {
+.column {
   float: right;
   width: 50%;
   padding: 5px;
