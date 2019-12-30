@@ -339,6 +339,7 @@ function showSlides() {
 
 <html>
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {
   box-sizing: border-box;
@@ -348,6 +349,26 @@ function showSlides() {
   float: left;
   width: 50%;
   padding: 5px;
+}
+
+}
+
+.container {
+  position: relative;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.container img {vertical-align: middle;}
+
+.container .content {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
 }
 
 /* Clearfix (clear floats) */
@@ -362,11 +383,23 @@ function showSlides() {
 
 <div class="row">
   <div class="column">
+    <div class="container">
     <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Hadenlor.png" style="width:100%">
+      <div class="content">
+        <h1>Dr. Christina Haden</h1>
+        <p>Research Director, Professor</p>
+       </div>
+    </div>
   </div>
-  <div class="column">
-    <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/decalor.png" style="width:100%">
-  </div>
+    <div class="column">
+      <div class="container">
+      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/decalor.png" style="width:100%">
+        <div class="content">
+          <h1>Manager Jose Gonzalez</h1>
+          <p>Former Boss at Defense Comissary Agency</p>
+       </div>
+    </div>
+   </div>
 </div>
 
 </body>
