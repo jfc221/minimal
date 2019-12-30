@@ -38,7 +38,14 @@ img {vertical-align: middle;}
   text-align: center;
 }
 
-
+.mySlides w3-animate-fading {
+   opacity: 1;
+   display: block;
+   width: 100%;
+   height: auto;
+   transition: .5s ease;
+   backface-visibility: hidden;
+ }
 
 .container:hover .mySlides w3-animate-fading  {
   opacity: 0.3;
