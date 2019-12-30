@@ -8,12 +8,12 @@
 }
 
 .column1 {
-  float: right;
+  float: left;
   width: 50%;
   padding: 5px;
 }
 .column {
-  float: right;
+  float: left;
   width: 50%;
   padding: 5px;
 }
