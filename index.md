@@ -94,6 +94,8 @@ img {vertical-align: middle;}
 @media only screen and (max-width: 300px) {
   .text {font-size: 11px}
 }
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
 </style>
 </head>
 <body>
