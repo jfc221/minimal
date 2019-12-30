@@ -386,8 +386,8 @@ function showSlides() {
     <div class="container">
     <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Hadenlor.png" style="width:100%">
       <div class="content">
-        <h1>Dr. Christina Haden</h1>
-        <p>Research Director, Professor</p>
+        <h2>Dr. Christina Haden</h2>
+        <p>Affiliatin: Research Director, Professor</p>
        </div>
     </div>
   </div>
@@ -395,8 +395,8 @@ function showSlides() {
       <div class="container">
       <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/decalor.png" style="width:100%">
         <div class="content">
-          <h1>Manager Jose Gonzalez</h1>
-          <p>Former Boss at Defense Comissary Agency</p>
+          <h2>Manager Jose Gonzalez</h2>
+          <p>Affiliation: Former Boss at Defense Comissary Agency</p>
        </div>
     </div>
    </div>
