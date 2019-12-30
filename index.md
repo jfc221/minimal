@@ -337,6 +337,44 @@ function showSlides() {
 
 # Letters of Recomendation
 
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+<div class="row">
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Hadenlor.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/decalor.png" style="width:100%">
+  </div>
+</div>
+
+</body>
+</html>
+
+
+
+
 #### [Metal 3D Printing Research Group Advisor and Professor](./hadenlor.pdf)
 
 #### [Defense Commissary Agency Manager](./decalor.pdf)
