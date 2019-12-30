@@ -98,7 +98,10 @@ img {vertical-align: middle;}
 </style>
 </head>
 <body>
-  
+<br>
+<br>
+<br>
+<br>
 <div class="row">
   <div class="column">
 <!-- ONE-->
