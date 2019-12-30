@@ -13,6 +13,9 @@ I am a third year Mechanical Engineering student minoring in Aerospace Engineeri
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
 <style>
 * {box-sizing: border-box;}
 body {font-family: Verdana, sans-serif;}
@@ -126,143 +129,119 @@ img {vertical-align: middle;}
   
 <div class="row">
   <div class="column">
-    <div class="slideshow-container">
-      <div class="mySlides fade">
+    <div class="w3-content w3-section" style="max-width:500px">
           <div class="container">
           <a href="./portfolio.pdf">
-              <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide1.png" class="image">
+              <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide1.png" class="image">
           </a>
             <div class="middle">
               <a href="./portfolio.pdf">
                <div class="text">View Portfolio</div>
                 </a>
-              </div>
-          </div>
         </div>
-      <div class="mySlides fade">
         <div class="container">
         <a href="./portfolio.pdf">
-            <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide2.png" class="image">
+            <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide2.png" class="image">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
              <div class="text">View Portfolio</div>
               </a>
-            </div>
         </div>
       </div>
-      <div class="mySlides fade">
         <div class="container">
         <a href="./portfolio.pdf">
-            <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide3.png" class="image">
+            <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide3.png" class="image">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
              <div class="text">View Portfolio</div>
                </a>
-            </div>
         </div>
       </div>
-      <div class="mySlides fade">
         <div class="container">
         <a href="./portfolio.pdf">
-            <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide4.png" class="image">
+            <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide4.png" class="image">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
              <div class="text">View Portfolio</div>
                </a>
-            </div>
         </div>
       </div>
-      <div class="mySlides fade">
         <div class="container">
         <a href="./portfolio.pdf">
-            <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide5.png" class="image">
+            <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide5.png" class="image">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
              <div class="text">View Portfolio</div>
                </a>
-            </div>
         </div>
       </div>
-      <div class="mySlides fade">
         <div class="container">
         <a href="./portfolio.pdf">
-            <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide6.png" class="image">
+            <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide6.png" class="image">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
              <div class="text">View Portfolio</div>
               </a>
-            </div>
         </div>
       </div>
-      <div class="mySlides fade">
         <div class="container">
         <a href="./portfolio.pdf">
-            <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide7.png" class="image">
+            <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide7.png" class="image">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
              <div class="text">View Portfolio</div>
              </a>
-            </div>
         </div>
       </div>
-      <div class="mySlides fade">
         <div class="container">
         <a href="./portfolio.pdf">
-            <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide8.png" class="image">
+            <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide8.png" class="image">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
              <div class="text">View Portfolio</div>
             </a>
-            </div>
         </div>
       </div>
-      <div class="mySlides fade">
         <div class="container">
         <a href="./portfolio.pdf">
-            <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide9.png" class="image">
+            <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide9.png" class="image">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
              <div class="text">View Portfolio</div>
             </a>
-            </div>
         </div>
       </div>
-      <div class="mySlides fade">
         <div class="container">
         <a href="./portfolio.pdf">
-            <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide10.png" class="image">
+            <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide10.png" class="image">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
              <div class="text">View Portfolio</div>
             </a>
-            </div>
         </div>
       </div>
-      <div class="mySlides fade">
         <div class="container">
         <a href="./portfolio.pdf">
-            <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide11.png" class="image">
+            <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide11.png" class="image">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
              <div class="text">View Portfolio</div>
             </a>
-            </div>
         </div>
       </div>
-      <div class="mySlides fade">
         <div class="container">
         <a href="./portfolio.pdf">
-            <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide12.png" class="image">
+            <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide12.png" class="image">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
@@ -306,26 +285,20 @@ img {vertical-align: middle;}
 </div>
 
 <script>
-var slideIndex = 0;
-showSlides();
+var myIndex = 0;
+carousel();
 
-function showSlides() {
+function carousel() {
   var i;
-  var slides = document.getElementsByClassName("mySlides");
-  var dots = document.getElementsByClassName("dot");
-  for (i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none";  
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
   }
-  slideIndex++;
-  if (slideIndex > slides.length) {slideIndex = 1}    
-  for (i = 0; i < dots.length; i++) {
-    dots[i].className = dots[i].className.replace(" active", "");
-  }
-  slides[slideIndex-1].style.display = "block";  
-  dots[slideIndex-1].className += " active";
-  setTimeout(showSlides, 10000); // Change image every 2 seconds
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}    
+  x[myIndex-1].style.display = "block";  
+  setTimeout(carousel, 9000);    
 }
-
 </script>
 
 </body>
