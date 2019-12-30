@@ -237,6 +237,7 @@ img {vertical-align: middle;}
         </div>
       </div>
     </div>
+   </div>
   <div class="column">
     <div class="container">
       <a href="./resume.pdf">
