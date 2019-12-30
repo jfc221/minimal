@@ -106,7 +106,7 @@ img {vertical-align: middle;}
     <div class="w3-content w3-section" style="max-width:500px" class="image">
           <div class="container">
           <a href="./portfolio.pdf">
-              <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide1.png">
+              <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide1.png" class="image">
           </a>
             <div class="middle">
               <a href="./portfolio.pdf">
