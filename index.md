@@ -1,5 +1,4 @@
 # Website under construction December 30, 2019 
-# Welcome to my website
 
 <html>
 <head>
