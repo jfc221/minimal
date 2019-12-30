@@ -28,7 +28,7 @@
   </div>
   <div class="column1">
     <h1>About Me</h1> 
-    <h2>My name is John Cummings and I am a Mechanical Engineering student with the sense of intuition and technical experience required to solve complex engineering problems.</h2> 
+    <h3>My name is John Cummings and I am a Mechanical Engineering student with the sense of intuition and technical experience required to solve complex engineering problems.</h3> 
   </div>
 </div>
 
