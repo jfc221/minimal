@@ -19,25 +19,16 @@
   padding: 5px;
 }
 
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
 </style>
 </head>
 <body>
-
-<h2>Images Side by Side</h2>
-<p>How to create side-by-side images with the CSS float property:</p>
 
 <div class="row">
   <div class="column">
     <img src="https://jfc221.github.io/website/assets/logo.png" style="width:100%">
   </div>
   <div class="column1">
-    <p>My name is John Cummings and I am a Mechanical Engineering student with the sense of intuition and technical experience required to solve complex engineering problems.</p> 
+    <h3>My name is John Cummings and I am a Mechanical Engineering student with the sense of intuition and technical experience required to solve complex engineering problems.</h3> 
   </div>
 </div>
 
