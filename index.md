@@ -2,12 +2,26 @@
 # Welcome to my website
 ### My name is John Cummings and I am a Mechanical Engineering student with the sense of intuition and technical experience required to solve complex engineering problems.
 
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<body>
+  <br>
+  <br>
+  <br>
+</body>
+</head>
+</html>
+
+
 ***
+
 
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <body>
+  <br>
   <br>
   <br>
 </body>
@@ -283,12 +297,30 @@ function carousel() {
 </html> 
   
   
-
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<body>
+  <br>
+  <br>
+  <br>
+</body>
+</head>
+</html>
 
  
 ***
 
-
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<body>
+  <br>
+  <br>
+  <br>
+</body>
+</head>
+</html>
 
 # Letters of Recomendation
 
@@ -372,9 +404,30 @@ function carousel() {
 </body>
 </html>
 
-
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<body>
+  <br>
+  <br>
+  <br>
+</body>
+</head>
+</html>
 
 ***
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<body>
+  <br>
+  <br>
+  <br>
+</body>
+</head>
+</html>
+
 
 # Contact Information
 
