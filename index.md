@@ -10,12 +10,12 @@
 
 .column1 {
   float: left;
-  width: 70%;
+  width: 50%;
   padding: 5px;
 }
 .column {
-  float: right;
-  width: 30%;
+  float: left;
+  width: 50%;
   padding: 5px;
 }
 
@@ -28,7 +28,7 @@
     <h3>My name is John Cummings and I am a Mechanical Engineering student with the sense of intuition and technical experience required to solve complex engineering problems.</h3> 
   </div>
   <div class="column">
-    <img src="https://jfc221.github.io/website/assets/logo.png" style="width:30%">
+    <img src="https://jfc221.github.io/website/assets/logo.png" style="width:100%">
   </div>
 </div>
 
