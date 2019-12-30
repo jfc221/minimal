@@ -13,7 +13,7 @@ I am a third year Mechanical Engineering student minoring in Aerospace Engineeri
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-  
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <style>
 * {box-sizing: border-box;}
 body {font-family: Verdana, sans-serif;}
@@ -95,7 +95,7 @@ img {vertical-align: middle;}
   .text {font-size: 11px}
 }
 
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
 
 </style>
 </head>
