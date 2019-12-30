@@ -1,6 +1,6 @@
 # About Me.. Website currently under construction 12-26-2019
 
-I am a third year Mechanical Engineering student minoring in Aerospace Engineering and Business with a passion for innovation. I have had the incredible experiences of being involved with multiple engineering projects which has given me the ability to perform holistically as an engineer. Metal additive manufacturing research, a Formula One style engineering team, internships, and volunteer engineering work have given me the opportunity to build my skill set and apply knowledge learned in the classroom to real world problems. Experience working in these organizations have given me the sense of intuition and holistic mindset required to solve new complex engineering problems.
+I am a third year Mechanical Engineering student minoring in Aerospace Engineering and Business with a passion for innovation. I am engaged in the incredible experiences of being involved with multiple engineering projects which have given me the ability to perform holistically as an engineer. Metal additive manufacturing research, a Formula One style engineering competition team, internships, and volunteer engineering work have provided me with the opportunity to build my skill set and apply knowledge learned in the classroom to real world problems. Experience working in these organizations have advanced my sense of intuition and holistic mindset required to solve new complex engineering problems.
 
 ***
 
@@ -385,7 +385,9 @@ function showSlides() {
 <div class="row">
   <div class="column">
     <div class="container">
-    <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Hadenlor.png" style="width:100%">
+         <a href="./hadenlor.pdf">
+         <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Hadenlor.png" style="width:100%" class="image">
+         </a>
       <div class="content">
         <h2>Dr. Christina Haden</h2>
         <p>Affiliation: Metal Additive Manufacturing Research Director, Professor</p>
@@ -394,7 +396,9 @@ function showSlides() {
   </div>
     <div class="column">
       <div class="container">
-      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/decalor.png" style="width:100%">
+           <a href="./decalor.pdf">
+            <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/decalor.png" style="width:100%" class="image">
+          </a>
         <div class="content">
           <h2>Manager Jose Gonzalez</h2>
           <p>Affiliation: Former Boss at Defense Comissary Agency</p>
