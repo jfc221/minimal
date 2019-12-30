@@ -124,161 +124,161 @@ img {vertical-align: middle;}
 <body>
 
 <div class="slideshow-container">
-      <div class="mySlides fade">
-          <div class="container">
+  <div class="mySlides fade">
+      <div class="container">
+      <a href="./portfolio.pdf">
+          <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide1.png" class="image">
+      </a>
+        <div class="middle">
           <a href="./portfolio.pdf">
-              <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide1.png" class="image">
-          </a>
-            <div class="middle">
-              <a href="./portfolio.pdf">
-               <div class="text">Engineering Portfolio</div>
-                </a>
-              </div>
+           <div class="text">Engineering Portfolio</div>
+            </a>
           </div>
-        </div>
-
-      <div class="mySlides fade">
-        <div class="container">
-        <a href="./portfolio.pdf">
-            <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide2.png" class="image">
-        </a>
-          <div class="middle">
-            <a href="./portfolio.pdf">
-             <div class="text">Engineering Portfolio</div>
-              </a>
-            </div>
-        </div>
       </div>
+    </div>
 
-      <div class="mySlides fade">
-        <div class="container">
+  <div class="mySlides fade">
+    <div class="container">
+    <a href="./portfolio.pdf">
+        <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide2.png" class="image">
+    </a>
+      <div class="middle">
         <a href="./portfolio.pdf">
-            <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide3.png" class="image">
-        </a>
-          <div class="middle">
-            <a href="./portfolio.pdf">
-             <div class="text">Engineering Portfolio</div>
-               </a>
-            </div>
+         <div class="text">Engineering Portfolio</div>
+          </a>
         </div>
-      </div>
+    </div>
+  </div>
 
-      <div class="mySlides fade">
-        <div class="container">
+  <div class="mySlides fade">
+    <div class="container">
+    <a href="./portfolio.pdf">
+        <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide3.png" class="image">
+    </a>
+      <div class="middle">
         <a href="./portfolio.pdf">
-            <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide4.png" class="image">
-        </a>
-          <div class="middle">
-            <a href="./portfolio.pdf">
-             <div class="text">Engineering Portfolio</div>
-               </a>
-            </div>
+         <div class="text">Engineering Portfolio</div>
+           </a>
         </div>
-      </div>
+    </div>
+  </div>
 
-      <div class="mySlides fade">
-        <div class="container">
+  <div class="mySlides fade">
+    <div class="container">
+    <a href="./portfolio.pdf">
+        <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide4.png" class="image">
+    </a>
+      <div class="middle">
         <a href="./portfolio.pdf">
-            <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide5.png" class="image">
-        </a>
-          <div class="middle">
-            <a href="./portfolio.pdf">
-             <div class="text">Engineering Portfolio</div>
-               </a>
-            </div>
+         <div class="text">Engineering Portfolio</div>
+           </a>
         </div>
-      </div>
+    </div>
+  </div>
 
-      <div class="mySlides fade">
-        <div class="container">
+  <div class="mySlides fade">
+    <div class="container">
+    <a href="./portfolio.pdf">
+        <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide5.png" class="image">
+    </a>
+      <div class="middle">
         <a href="./portfolio.pdf">
-            <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide6.png" class="image">
-        </a>
-          <div class="middle">
-            <a href="./portfolio.pdf">
-             <div class="text">Engineering Portfolio</div>
-              </a>
-            </div>
+         <div class="text">Engineering Portfolio</div>
+           </a>
         </div>
-      </div>
+    </div>
+  </div>
 
-      <div class="mySlides fade">
-        <div class="container">
+  <div class="mySlides fade">
+    <div class="container">
+    <a href="./portfolio.pdf">
+        <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide6.png" class="image">
+    </a>
+      <div class="middle">
         <a href="./portfolio.pdf">
-            <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide7.png" class="image">
-        </a>
-          <div class="middle">
-            <a href="./portfolio.pdf">
-             <div class="text">Engineering Portfolio</div>
-             </a>
-            </div>
+         <div class="text">Engineering Portfolio</div>
+          </a>
         </div>
-      </div>
+    </div>
+  </div>
 
-      <div class="mySlides fade">
-        <div class="container">
+  <div class="mySlides fade">
+    <div class="container">
+    <a href="./portfolio.pdf">
+        <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide7.png" class="image">
+    </a>
+      <div class="middle">
         <a href="./portfolio.pdf">
-            <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide8.png" class="image">
-        </a>
-          <div class="middle">
-            <a href="./portfolio.pdf">
-             <div class="text">Engineering Portfolio</div>
-            </a>
-            </div>
+         <div class="text">Engineering Portfolio</div>
+         </a>
         </div>
-      </div>
+    </div>
+  </div>
 
-      <div class="mySlides fade">
-        <div class="container">
+  <div class="mySlides fade">
+    <div class="container">
+    <a href="./portfolio.pdf">
+        <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide8.png" class="image">
+    </a>
+      <div class="middle">
         <a href="./portfolio.pdf">
-            <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide9.png" class="image">
+         <div class="text">Engineering Portfolio</div>
         </a>
-          <div class="middle">
-            <a href="./portfolio.pdf">
-             <div class="text">Engineering Portfolio</div>
-            </a>
-            </div>
         </div>
-      </div>
+    </div>
+  </div>
 
-      <div class="mySlides fade">
-        <div class="container">
+  <div class="mySlides fade">
+    <div class="container">
+    <a href="./portfolio.pdf">
+        <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide9.png" class="image">
+    </a>
+      <div class="middle">
         <a href="./portfolio.pdf">
-            <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide10.png" class="image">
+         <div class="text">Engineering Portfolio</div>
         </a>
-          <div class="middle">
-            <a href="./portfolio.pdf">
-             <div class="text">Engineering Portfolio</div>
-            </a>
-            </div>
         </div>
-      </div>
+    </div>
+  </div>
 
-      <div class="mySlides fade">
-        <div class="container">
+  <div class="mySlides fade">
+    <div class="container">
+    <a href="./portfolio.pdf">
+        <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide10.png" class="image">
+    </a>
+      <div class="middle">
         <a href="./portfolio.pdf">
-            <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide11.png" class="image">
+         <div class="text">Engineering Portfolio</div>
         </a>
-          <div class="middle">
-            <a href="./portfolio.pdf">
-             <div class="text">Engineering Portfolio</div>
-            </a>
-            </div>
         </div>
-      </div>
+    </div>
+  </div>
 
-      <div class="mySlides fade">
-        <div class="container">
+  <div class="mySlides fade">
+    <div class="container">
+    <a href="./portfolio.pdf">
+        <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide11.png" class="image">
+    </a>
+      <div class="middle">
         <a href="./portfolio.pdf">
-            <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide12.png" class="image">
+         <div class="text">Engineering Portfolio</div>
         </a>
-          <div class="middle">
-            <a href="./portfolio.pdf">
-             <div class="text">View Portfolio</div>
-            </a>
-            </div>
         </div>
-      </div>
+    </div>
+  </div>
+
+  <div class="mySlides fade">
+    <div class="container">
+    <a href="./portfolio.pdf">
+        <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide12.png" class="image">
+    </a>
+      <div class="middle">
+        <a href="./portfolio.pdf">
+         <div class="text">View Portfolio</div>
+        </a>
+        </div>
+    </div>
+  </div>
 </div>
 
 <br>
