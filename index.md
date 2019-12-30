@@ -328,10 +328,6 @@ function showSlides() {
 </html> 
   
   
-
-### [Resume](./resume.pdf)
-
-
 ### [LinkedIn](http://linkedin.com/in/john-cummings1)
 
  
