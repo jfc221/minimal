@@ -28,7 +28,7 @@
     <h3>My name is John Cummings and I am a Mechanical Engineering student with the sense of intuition and technical experience required to solve complex engineering problems.</h3> 
   </div>
   <div class="column">
-    <img src="https://jfc221.github.io/website/assets/logo.png" style="width:100%">
+    <img src="https://jfc221.github.io/website/assets/logo.png" style="width:70%">
   </div>
 </div>
 
