@@ -10,12 +10,12 @@
 
 .column {
   float: left;
-  width: 30%;
+  width: 70%;
   padding: 5px;
 }
 .column1 {
   float: left;
-  width: 70%;
+  width: 30%;
   padding: 5px;
 }
 
@@ -25,10 +25,10 @@
 
 <div class="row">
   <div class="column">
-    <img src="https://jfc221.github.io/website/assets/logo.png" style="width:100%">
+    <h3>My name is John Cummings and I am a Mechanical Engineering student with the sense of intuition and technical experience required to solve complex engineering problems.</h3> 
   </div>
   <div class="column1">
-    <h3>My name is John Cummings and I am a Mechanical Engineering student with the sense of intuition and technical experience required to solve complex engineering problems.</h3> 
+    <img src="https://jfc221.github.io/website/assets/logo.png" style="width:100%">
   </div>
 </div>
 
