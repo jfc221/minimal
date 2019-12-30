@@ -36,7 +36,7 @@ img {vertical-align: middle;}
   text-align: center;
 }
 
-.mySlides w3-animate-fading {
+.image {
    opacity: 1;
    display: block;
    width: 100%;
@@ -45,7 +45,7 @@ img {vertical-align: middle;}
    backface-visibility: hidden;
  }
 
-.container:hover .mySlides w3-animate-fading  {
+.container:hover .image  {
   opacity: 0.3;
 }
 
@@ -103,7 +103,7 @@ img {vertical-align: middle;}
   
 <div class="row">
   <div class="column">
-    <div class="w3-content w3-section" style="max-width:500px">
+    <div class="w3-content w3-section" style="max-width:500px" class="image">
           <div class="container">
           <a href="./portfolio.pdf">
               <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide1.png">
@@ -116,7 +116,7 @@ img {vertical-align: middle;}
         </div>
         <div class="container">
         <a href="./portfolio.pdf">
-            <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide2.png">
+            <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide2.png" class="image">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
@@ -126,7 +126,7 @@ img {vertical-align: middle;}
       </div>
         <div class="container">
         <a href="./portfolio.pdf">
-            <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide3.png">
+            <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide3.png" class="image">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
@@ -136,7 +136,7 @@ img {vertical-align: middle;}
       </div>
         <div class="container">
         <a href="./portfolio.pdf">
-            <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide4.png">
+            <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide4.png" class="image">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
@@ -146,7 +146,7 @@ img {vertical-align: middle;}
       </div>
         <div class="container">
         <a href="./portfolio.pdf">
-            <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide5.png">
+            <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide5.png" class="image">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
@@ -156,7 +156,7 @@ img {vertical-align: middle;}
       </div>
         <div class="container">
         <a href="./portfolio.pdf">
-            <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide6.png">
+            <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide6.png" class="image">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
@@ -166,7 +166,7 @@ img {vertical-align: middle;}
       </div>
         <div class="container">
         <a href="./portfolio.pdf">
-            <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide7.png">
+            <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide7.png" class="image">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
@@ -176,7 +176,7 @@ img {vertical-align: middle;}
       </div>
         <div class="container">
         <a href="./portfolio.pdf">
-            <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide8.png">
+            <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide8.png" class="image">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
@@ -186,7 +186,7 @@ img {vertical-align: middle;}
       </div>
         <div class="container">
         <a href="./portfolio.pdf">
-            <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide9.png">
+            <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide9.png" class="image">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
@@ -196,7 +196,7 @@ img {vertical-align: middle;}
       </div>
         <div class="container">
         <a href="./portfolio.pdf">
-            <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide10.png">
+            <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide10.png" class="image">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
@@ -206,7 +206,7 @@ img {vertical-align: middle;}
       </div>
         <div class="container">
         <a href="./portfolio.pdf">
-            <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide11.png">
+            <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide11.png" class="image">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
@@ -216,7 +216,7 @@ img {vertical-align: middle;}
       </div>
         <div class="container">
         <a href="./portfolio.pdf">
-            <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide12.png">
+            <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide12.png" class="image">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
