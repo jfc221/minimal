@@ -137,6 +137,7 @@ img {vertical-align: middle;}
                </a>
         </div>
       </div>
+<!-- FOUR-->
         <div class="container">
         <a href="./portfolio.pdf">
             <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide4.png" class="image">
@@ -147,6 +148,7 @@ img {vertical-align: middle;}
                </a>
         </div>
       </div>
+<!-- FIVE-->
         <div class="container">
         <a href="./portfolio.pdf">
             <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide5.png" class="image">
@@ -157,6 +159,7 @@ img {vertical-align: middle;}
                </a>
         </div>
       </div>
+<!-- SIX-->
         <div class="container">
         <a href="./portfolio.pdf">
             <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide6.png" class="image">
@@ -167,6 +170,7 @@ img {vertical-align: middle;}
               </a>
         </div>
       </div>
+<!-- SEVEN-->
         <div class="container">
         <a href="./portfolio.pdf">
             <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide7.png" class="image">
@@ -177,6 +181,7 @@ img {vertical-align: middle;}
              </a>
         </div>
       </div>
+<!-- EIGHT-->
         <div class="container">
         <a href="./portfolio.pdf">
             <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide8.png" class="image">
@@ -187,6 +192,7 @@ img {vertical-align: middle;}
             </a>
         </div>
       </div>
+<!-- NINE-->
         <div class="container">
         <a href="./portfolio.pdf">
             <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide9.png" class="image">
@@ -197,6 +203,7 @@ img {vertical-align: middle;}
             </a>
         </div>
       </div>
+<!-- TEN-->
         <div class="container">
         <a href="./portfolio.pdf">
             <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide10.png" class="image">
@@ -207,6 +214,7 @@ img {vertical-align: middle;}
             </a>
         </div>
       </div>
+<!-- ELEVEN-->
         <div class="container">
         <a href="./portfolio.pdf">
             <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide11.png" class="image">
@@ -217,6 +225,7 @@ img {vertical-align: middle;}
             </a>
         </div>
       </div>
+<!-- TWELVE-->
         <div class="container">
         <a href="./portfolio.pdf">
             <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide12.png" class="image">
@@ -229,6 +238,8 @@ img {vertical-align: middle;}
       </div>
     </div>
    </div>
+  </div>
+  
   <div class="column">
     <div class="container">
       <a href="./resume.pdf">
