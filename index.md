@@ -104,7 +104,7 @@ img {vertical-align: middle;}
 <!-- ONE-->
           <div class="container">
           <a href="./portfolio.pdf">
-              <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide1.png">
+              <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide1.png" style="width:100%">
           </a>
             <div class="middle">
               <a href="./portfolio.pdf">
@@ -115,7 +115,7 @@ img {vertical-align: middle;}
 <!-- TWO-->
         <div class="container">
         <a href="./portfolio.pdf">
-            <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide2.png">
+            <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide2.png" style="width:100%">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
@@ -126,7 +126,7 @@ img {vertical-align: middle;}
 <!-- THREE-->
         <div class="container">
         <a href="./portfolio.pdf">
-            <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide3.png">
+            <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide3.png" style="width:100%">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
@@ -137,7 +137,7 @@ img {vertical-align: middle;}
 <!-- FOUR-->
         <div class="container">
         <a href="./portfolio.pdf">
-            <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide4.png">
+            <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide4.png" style="width:100%">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
@@ -148,7 +148,7 @@ img {vertical-align: middle;}
 <!-- FIVE-->
         <div class="container">
         <a href="./portfolio.pdf">
-            <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide5.png">
+            <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide5.png" style="width:100%">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
@@ -159,7 +159,7 @@ img {vertical-align: middle;}
 <!-- SIX-->
         <div class="container">
         <a href="./portfolio.pdf">
-            <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide6.png">
+            <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide6.png" style="width:100%">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
@@ -170,7 +170,7 @@ img {vertical-align: middle;}
 <!-- SEVEN-->
         <div class="container">
         <a href="./portfolio.pdf">
-            <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide7.png">
+            <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide7.png" style="width:100%">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
@@ -181,7 +181,7 @@ img {vertical-align: middle;}
 <!-- EIGHT-->
         <div class="container">
         <a href="./portfolio.pdf">
-            <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide8.png">
+            <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide8.png" style="width:100%">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
@@ -192,7 +192,7 @@ img {vertical-align: middle;}
 <!-- NINE-->
         <div class="container">
         <a href="./portfolio.pdf">
-            <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide9.png">
+            <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide9.png" style="width:100%">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
@@ -203,7 +203,7 @@ img {vertical-align: middle;}
 <!-- TEN-->
         <div class="container">
         <a href="./portfolio.pdf">
-            <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide10.png">
+            <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide10.png" style="width:100%">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
@@ -214,7 +214,7 @@ img {vertical-align: middle;}
 <!-- ELEVEN-->
         <div class="container">
         <a href="./portfolio.pdf">
-            <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide11.png">
+            <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide11.png" style="width:100%">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
@@ -225,7 +225,7 @@ img {vertical-align: middle;}
 <!-- TWELVE-->
         <div class="container">
         <a href="./portfolio.pdf">
-            <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide12.png">
+            <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide12.png" style="width:100%">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
