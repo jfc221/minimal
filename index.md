@@ -8,12 +8,12 @@
   box-sizing: border-box;
 }
 
-.column1 {
+.column {
   float: right;
   width: 50%;
   padding: 5px;
 }
-.column {
+.column1 {
   float: right;
   width: 50%;
   padding: 5px;
@@ -24,12 +24,12 @@
 <body>
 
 <div class="row">
+  <div class="column">
+    <img src="https://jfc221.github.io/website/assets/logo.png" style="width:80%">
+  </div>
   <div class="column1">
     <h1>About Me</h1> 
     <h2>My name is John Cummings and I am a Mechanical Engineering student with the sense of intuition and technical experience required to solve complex engineering problems.</h2> 
-  </div>
-  <div class="column">
-    <img src="https://jfc221.github.io/website/assets/logo.png" style="width:80%">
   </div>
 </div>
 
