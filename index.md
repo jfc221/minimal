@@ -416,11 +416,6 @@ function showSlides() {
 
 
 
-
-#### [Metal 3D Printing Research Group Advisor and Professor](./hadenlor.pdf)
-
-#### [Defense Commissary Agency Manager](./decalor.pdf)
-
 ***
 
 # Contact Information
