@@ -1,6 +1,6 @@
 # Website under consruction December 30, 2019 
 # Welcome to my website
-## My name is John Cummings and I am a Mechanical Engineering student with the sense of intuition and experience required to solve complex engineering problems.
+## My name is John Cummings and I am a Mechanical Engineering student with the sense of intuition and technical experience required to solve complex engineering problems.
 
 ***
 
