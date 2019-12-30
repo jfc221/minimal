@@ -94,6 +94,7 @@ img {vertical-align: middle;}
 @media only screen and (max-width: 300px) {
   .text {font-size: 11px}
 }
+
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
 </style>
@@ -221,6 +222,7 @@ img {vertical-align: middle;}
             <a href="./portfolio.pdf">
              <div class="text">View Portfolio</div>
             </a>
+            </div>
         </div>
       </div>
     </div>
@@ -238,6 +240,7 @@ img {vertical-align: middle;}
     </div>
   </div>
 </div>
+
 
 
 
