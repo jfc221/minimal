@@ -275,7 +275,7 @@ img {vertical-align: middle;}
   <div class="column">
     <div class="container">
       <a href="./resume.pdf">
-      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/ResumeThumb.png" class="image" style="width:100%">
+      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Resumethumb.png" class="image" style="width:100%">
         </a>
       <div class="middle">
         <a href="./resume.pdf">
