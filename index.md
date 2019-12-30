@@ -14,8 +14,6 @@ I am a third year Mechanical Engineering student minoring in Aerospace Engineeri
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-
 <style>
 * {box-sizing: border-box;}
 body {font-family: Verdana, sans-serif;}
@@ -92,7 +90,7 @@ img {vertical-align: middle;}
   display: table;
 }
 
-
+<href="https://www.w3schools.com/w3css/4/w3.css">
 
 
 /* On smaller screens, decrease text size */
