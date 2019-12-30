@@ -14,7 +14,7 @@
   padding: 5px;
 }
 .column {
-  float: left;
+  float: right;
   width: 30%;
   padding: 5px;
 }
