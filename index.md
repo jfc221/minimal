@@ -23,7 +23,7 @@
 <body>
 <div class="row">
   <div class="column">
-    <img src="https://jfc221.github.io/website/assets/logo.png" style="width:80%">
+    <img src="https://jfc221.github.io/website/assets/logo.png" style="width:100%">
   </div>
   <div class="column1">
     <h1>About Me</h1> 
