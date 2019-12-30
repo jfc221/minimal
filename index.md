@@ -388,10 +388,12 @@ function showSlides() {
          <a href="./hadenlor.pdf">
          <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Hadenlor.png" style="width:100%" class="image">
          </a>
+       <a href="./hadenlor.pdf">
       <div class="content">
         <h2>Dr. Christina Haden</h2>
         <p>Affiliation: Metal Additive Manufacturing Research Director, Professor</p>
        </div>
+      </a>
     </div>
   </div>
     <div class="column">
@@ -399,10 +401,12 @@ function showSlides() {
            <a href="./decalor.pdf">
             <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/decalor.png" style="width:100%" class="image">
           </a>
+        <a href="./decalor.pdf">
         <div class="content">
           <h2>Manager Jose Gonzalez</h2>
           <p>Affiliation: Former Boss at Defense Comissary Agency</p>
        </div>
+         </a> 
     </div>
    </div>
 </div>
