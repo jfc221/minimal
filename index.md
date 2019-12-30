@@ -4,7 +4,7 @@ I am a third year Mechanical Engineering student minoring in Aerospace Engineeri
 
 ***
 
-# Project Experience
+# Engineering Portfolio and Resume
 
 
 
@@ -133,7 +133,7 @@ img {vertical-align: middle;}
           </a>
             <div class="middle">
               <a href="./portfolio.pdf">
-               <div class="text">Engineering Portfolio</div>
+               <div class="text">View Portfolio</div>
                 </a>
               </div>
           </div>
@@ -145,7 +145,7 @@ img {vertical-align: middle;}
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
-             <div class="text">Engineering Portfolio</div>
+             <div class="text">View Portfolio</div>
               </a>
             </div>
         </div>
@@ -157,7 +157,7 @@ img {vertical-align: middle;}
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
-             <div class="text">Engineering Portfolio</div>
+             <div class="text">View Portfolio</div>
                </a>
             </div>
         </div>
@@ -169,7 +169,7 @@ img {vertical-align: middle;}
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
-             <div class="text">Engineering Portfolio</div>
+             <div class="text">View Portfolio</div>
                </a>
             </div>
         </div>
@@ -181,7 +181,7 @@ img {vertical-align: middle;}
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
-             <div class="text">Engineering Portfolio</div>
+             <div class="text">View Portfolio</div>
                </a>
             </div>
         </div>
@@ -193,7 +193,7 @@ img {vertical-align: middle;}
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
-             <div class="text">Engineering Portfolio</div>
+             <div class="text">View Portfolio</div>
               </a>
             </div>
         </div>
@@ -205,7 +205,7 @@ img {vertical-align: middle;}
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
-             <div class="text">Engineering Portfolio</div>
+             <div class="text">View Portfolio</div>
              </a>
             </div>
         </div>
@@ -217,7 +217,7 @@ img {vertical-align: middle;}
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
-             <div class="text">Engineering Portfolio</div>
+             <div class="text">View Portfolio</div>
             </a>
             </div>
         </div>
@@ -229,7 +229,7 @@ img {vertical-align: middle;}
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
-             <div class="text">Engineering Portfolio</div>
+             <div class="text">View Portfolio</div>
             </a>
             </div>
         </div>
@@ -241,7 +241,7 @@ img {vertical-align: middle;}
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
-             <div class="text">Engineering Portfolio</div>
+             <div class="text">View Portfolio</div>
             </a>
             </div>
         </div>
@@ -253,7 +253,7 @@ img {vertical-align: middle;}
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
-             <div class="text">Engineering Portfolio</div>
+             <div class="text">View Portfolio</div>
             </a>
             </div>
         </div>
