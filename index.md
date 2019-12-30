@@ -13,7 +13,7 @@ I am a third year Mechanical Engineering student minoring in Aerospace Engineeri
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
+  
 <style>
 * {box-sizing: border-box;}
 body {font-family: Verdana, sans-serif;}
@@ -103,7 +103,7 @@ img {vertical-align: middle;}
   
 <div class="row">
   <div class="column">
-    <div class="w3-content w3-section" style="max-width:500px" class="image">
+    <div class="w3-content w3-section" style="max-width:500px">
 <!-- ONE-->
           <div class="container">
           <a href="./portfolio.pdf">
