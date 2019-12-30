@@ -27,7 +27,7 @@
     <h3>I am a third year Mechanical Engineering student minoring in Aerospace Engineering and Business with a passion for innovation. I have had the incredible experiences of being involved with multiple engineering projects which have given me the ability to perform holistically as an engineer. <br><br> Metal additive manufacturing research, a Formula One style engineering competition team, internships, and volunteer engineering work have provided me with the opportunity to build my skill set and apply knowledge learned in the classroom to real world problems. Experience working in these organizations have advanced my sense of intuition and holistic mindset required to solve new complex engineering problems.</h3> 
   </div>
   <div class="column">
-    <img src="https://jfc221.github.io/website/assets/logo.png" style="width:90%">
+    <img src="https://jfc221.github.io/website/assets/logo.png" style="width:100%">
   </div>
 </div>
 
