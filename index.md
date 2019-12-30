@@ -104,6 +104,7 @@ img {vertical-align: middle;}
 <div class="row">
   <div class="column">
     <div class="w3-content w3-section" style="max-width:500px" class="image">
+/* ONE */
           <div class="container">
           <a href="./portfolio.pdf">
               <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide1.png" class="image">
@@ -114,6 +115,7 @@ img {vertical-align: middle;}
                 </a>
             </div>  
         </div>
+/* TWO */
         <div class="container">
         <a href="./portfolio.pdf">
             <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide2.png" class="image">
@@ -124,6 +126,7 @@ img {vertical-align: middle;}
               </a>
         </div>
       </div>
+/* THREE */
         <div class="container">
         <a href="./portfolio.pdf">
             <img class="mySlides w3-animate-fading" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide3.png" class="image">
@@ -222,7 +225,6 @@ img {vertical-align: middle;}
             <a href="./portfolio.pdf">
              <div class="text">View Portfolio</div>
             </a>
-            </div>
         </div>
       </div>
     </div>
