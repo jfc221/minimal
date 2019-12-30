@@ -330,7 +330,7 @@ function showSlides() {
 </html> 
   
   
-### [LinkedIn](http://linkedin.com/in/john-cummings1)
+
 
  
 ***
@@ -424,6 +424,8 @@ function showSlides() {
 ***
 
 # Contact Information
+
+#### [LinkedIn](http://linkedin.com/in/john-cummings1)
 
 #### Email: [johncummings115@gmail.com](mailto:johncummings115@gmail.com)
 
