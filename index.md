@@ -90,15 +90,13 @@ img {vertical-align: middle;}
   display: table;
 }
 
-<href="https://www.w3schools.com/w3css/4/w3.css">
-
-
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
   .text {font-size: 11px}
 }
 </style>
 </head>
+<rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <body>
   
 <div class="row">
