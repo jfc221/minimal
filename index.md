@@ -278,7 +278,9 @@ img {vertical-align: middle;}
       <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/ResumeThumb.png" class="image" style="width:100%">
         </a>
       <div class="middle">
-        <div class="text">View Resume</div>
+        <a href="./resume.pdf">
+               <div class="text">View Resume</div>
+        </a>
       </div>
     </div>
   </div>
