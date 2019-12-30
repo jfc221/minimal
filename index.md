@@ -95,8 +95,8 @@ img {vertical-align: middle;}
   .text {font-size: 11px}
 }
 </style>
-<rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 </head>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <body>
   
 <div class="row">
