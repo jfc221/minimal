@@ -388,7 +388,7 @@ function showSlides() {
     <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Hadenlor.png" style="width:100%">
       <div class="content">
         <h2>Dr. Christina Haden</h2>
-        <p>Affiliatin: Research Director, Professor</p>
+        <p>Affiliation: Metal Additive Manufacturing Research Director, Professor</p>
        </div>
     </div>
   </div>
