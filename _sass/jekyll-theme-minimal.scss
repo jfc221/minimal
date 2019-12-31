@@ -173,7 +173,8 @@ strong {
 }
 
 section {
-  width:1000px;
+  max-width:1000px;
+  min-width:600px;
   float:right;
   padding-bottom:50px;
 }
