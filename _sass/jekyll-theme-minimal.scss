@@ -58,7 +58,7 @@ a:hover small {
 
 .wrapper {
   width:auto;
-  margin:20px auto auto 300px;
+  margin:0 auto;
 }
 
 blockquote {
@@ -173,8 +173,7 @@ strong {
 }
 
 section {
-  max-width:1000px;
-  min-width:600px;
+  width:auto;
   float:right;
   padding-bottom:50px;
 }
@@ -219,7 +218,7 @@ footer {
     border:1px solid #e5e5e5;
     border-width:1px 0;
     padding:10px 0;
-    margin:0 0 20px;
+    margin:0 20 0 300px;
   }
 
   header a small {
