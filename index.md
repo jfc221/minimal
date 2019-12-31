@@ -9,12 +9,12 @@
 
 .column {
   float: left;
-  width: 66%;
+  width: 33%;
   padding: 5px;
 }
 .column1 {
   float: left;
-  width: 33%;
+  width: 66%;
   padding: 5px;
 }
 
