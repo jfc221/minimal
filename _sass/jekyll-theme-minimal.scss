@@ -109,7 +109,9 @@ header {
   width:260px;
   float:left;
   position:fixed;
+  margin:auto 20px auto auto;
   -webkit-font-smoothing:subpixel-antialiased;
+ 
 }
 
 ul.downloads {
@@ -176,7 +178,6 @@ section {
   width:auto;
   float:right;
   padding-bottom:50px;
-  margin:0 20px 0 300px;
 }
 
 small {
