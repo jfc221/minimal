@@ -395,7 +395,7 @@ function carousel() {
   background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
   color: #f1f1f1;
   width: 100%;
-  height: 50%;
+  height: 40%;
   padding: 20px;
 }
 
