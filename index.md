@@ -1,11 +1,4 @@
 
-<html>
-  <head>
-    <meta http-equiv="Refresh" content="7; url=//www.john-cummings.com" />
-  </head>
-</html>
-
-
 
 
 <html>
