@@ -1,5 +1,5 @@
 
-# Website under construction January 2nd, 2020! 
+# Website under construction 
 
 <html>
 <head>
